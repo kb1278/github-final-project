@@ -1,4 +1,4 @@
-reate a new GitHub repository called "github-final-project" and make sure that it is public.
+Create a new GitHub repository called "github-final-project" and make sure that it is public.
 
 Select the Add a README file and Choose a license check boxes. Pick Apache 2.0 License from the drop down.
 
